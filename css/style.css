@@ -44,9 +44,9 @@ header nav#menu ul li a:hover{background: #eee; border-radius: 50px;}
 #center .con .summary a {display: block; background: #222; color: #fff; text-align: center;}
 #center .con .summary a:hover{opacity: 0.8;}
 #center .con .summary a i {display: block; padding: 40px 0; height: 150px;}
-#center .con .summary a i.thum1{background: url(../images/thum1.jpg)no-repeat 50% 50%;}
-#center .con .summary a i.thum2{background: url(../images/thum2.jpg)no-repeat 50% 50%;}
-#center .con .summary a i.thum3{background: url(../images/thum3.jpg)no-repeat 50% 50%;}
+#center .con .summary a i.thum1{background: url(../images/thum1.jpg) no-repeat 50% 50%;}
+#center .con .summary a i.thum2{background: url(../images/thum2.jpg) no-repeat 50% 50%;}
+#center .con .summary a i.thum3{background: url(../images/thum3.jpg) no-repeat 50% 50%;}
 #center .con .summary a h2{padding: 15px 0; font-size: 17px;}
 #center .con .summary a p{padding: 10px 0 12px 0; font-size: 13px; background: #727070;}
 
